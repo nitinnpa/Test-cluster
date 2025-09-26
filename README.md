@@ -1,6 +1,4 @@
 # Test-cluster
 My demo cluster
-<br>
 Author Nitin Pawar
-<br>
-Test
+This is my first git file
